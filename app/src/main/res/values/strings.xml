@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="fieldCityNameDefault">Enter city name here</string>
+    <string name="locationWeatherTextDefault">Location isn\'t defined</string>
+    <string name="buttonDefault">Find out the weather in other cities</string>
+    <string name="buttonFindWeatherByCity">Find out the weather</string>
+    <string name="wrongCityName">Wrong city name, please try again</string>
+</resources>
